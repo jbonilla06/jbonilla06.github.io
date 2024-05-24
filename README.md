@@ -1,2 +1,2 @@
 # jbonilla06.github.io
-mi pagina personal
+Mi pagina personal
